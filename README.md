@@ -1,3 +1,3 @@
 # codewars-solution
 
-This file contains codewars solution 
+This page contains codewars solution 
